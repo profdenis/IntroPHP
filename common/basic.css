@@ -1,0 +1,18 @@
+dt {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: coral;
+}
+
+table, td, th {
+    border-width: 2px;
+    border-style: solid;
+    border-color: green;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+.error {
+    color: red;
+    background-color: yellow;
+}

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b518643f-a84b-4308-8fd9-a21ee3c51391" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/IntroPHP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a96cf90c-9e8e-4c6f-9d02-7993a7cbe105.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a96cf90c-9e8e-4c6f-9d02-7993a7cbe105/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bf9e7c51-7740-46d8-8b7c-ed5095990725.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A1_software/hello.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A2_variables/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A2_variables/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A2_variables/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A2_variables/phpinfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A3_data_types/arrays1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A3_data_types/arrays2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A3_data_types/numbers1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A3_data_types/numbers2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A3_data_types/strings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A4_conditions/comparison1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A4_conditions/comparison2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A5_functions/builtin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A5_functions/function_defs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A5_functions/use_functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A6_superglobals/superglobals.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A7_loops/array_loops1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A7_loops/array_loops2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartA_Overview/A7_loops/basic_loops.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B1_array_to_html_list/array_to_html_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B2_files/fruits1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B2_files/fruits2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B2_files/read_text_file.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B2_files/write_text_file.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B3_table_from_csv/fruits1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B3_table_from_csv/read_csv_file1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B3_table_from_csv/read_csv_file2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B4_basic_forms/name1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B4_basic_forms/name2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B4_basic_forms/name3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B4_basic_forms/name4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B4_basic_forms/name_action1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B4_basic_forms/name_action2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B5_survey_form/survey.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B5_survey_form/survey.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B6_post_redirect_get/survey.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B6_post_redirect_get/survey.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartB_PHP_Examples/B6_post_redirect_get/survey_recorded.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C1_cookies/hello_name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C1_cookies/name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C2_sessions/delete_name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C2_sessions/destroy_session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C2_sessions/hello_name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C2_sessions/name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C3_CSRF/delete_name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C3_CSRF/destroy_session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C3_CSRF/hello_name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C3_CSRF/name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C4_authentication/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C4_authentication/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C4_authentication/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C4_authentication/passwords.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_Sessions_Authentication/C4_authentication/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D1_accessing_the_DB/create_person.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D1_accessing_the_DB/create_user_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D2_PHP_DB_connection/connect_db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D3_html_tables_revisited/person_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D4_prepared_statement/person.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D4_prepared_statement/person_wrong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D5_authentication_revisited/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D5_authentication_revisited/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D5_authentication_revisited/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D5_authentication_revisited/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartD_MySQL/D5_authentication_revisited/users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/basic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/functions_defs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/header.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1jONIaxtOC9nfXzASjEYx79UBIv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/php/php.ini" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\denis\OneDrive\Documents\vanier\IntroPHP\PartD_MySQL\D5_authentication_revisited" />
+      <recent name="C:\Users\denis\OneDrive\Documents\vanier\IntroPHP\PartD_MySQL\D4_prepared_statement" />
+      <recent name="C:\Users\denis\OneDrive\Documents\vanier\IntroPHP\PartD_MySQL\D4_prepare_statement" />
+      <recent name="C:\Users\denis\OneDrive\Documents\vanier\IntroPHP\PartD_MySQL\D3_html_tables_revisited" />
+      <recent name="C:\Users\denis\OneDrive\Documents\vanier\IntroPHP\PartC_Sessions_Authentication\C3_CSRF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\denis\OneDrive\Documents\vanier\IntroPHP\PartC_Sessions_Authentication\C2_sessions" />
+      <recent name="C:\Users\denis\OneDrive\Documents\vanier\IntroPHP\PartC_Sessions_Authentication\C1_cookies" />
+      <recent name="C:\Users\denis\OneDrive\Documents\vanier\IntroPHP\PartC_Sessions_Authentication\C3_authentication" />
+      <recent name="C:\Users\denis\OneDrive\Documents\vanier\IntroPHP" />
+      <recent name="C:\Users\denis\OneDrive\Documents\vanier\IntroPHP\PartB_PHP_Examples\common" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="read_csv_file2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PartB_PHP_Examples/B3_table_from_csv/read_csv_file2.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.read_csv_file2.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b518643f-a84b-4308-8fd9-a21ee3c51391" name="Default Changelist" comment="" />
+      <created>1603671099158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603671099158</updated>
+      <workItem from="1603671100228" duration="3602000" />
+      <workItem from="1604002933813" duration="6427000" />
+      <workItem from="1604184853563" duration="27475000" />
+      <workItem from="1604612529309" duration="2846000" />
+      <workItem from="1604871625596" duration="1487000" />
+      <workItem from="1604873130618" duration="21643000" />
+      <workItem from="1605103013046" duration="4703000" />
+      <workItem from="1605450214246" duration="17042000" />
+      <workItem from="1605485643935" duration="517000" />
+      <workItem from="1605486175576" duration="140000" />
+      <workItem from="1605486461740" duration="16942000" />
+      <workItem from="1605632660043" duration="901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1490" y="0" key="#PHP" timestamp="1603671175534">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1490" y="0" key="#PHP/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1603671175534" />
+    <state x="-1891" y="234" key="#SQL_Dialects" timestamp="1605487650116">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1891" y="234" key="#SQL_Dialects/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605487650116" />
+    <state x="-1306" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605472292834">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1306" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605472292834" />
+    <state x="-1487" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605489533146">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1487" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605489533146" />
+    <state x="-1424" y="113" key="FileChooserDialogImpl" timestamp="1605554219584">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1424" y="108" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1604010481525" />
+    <state x="-1424" y="113" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605554219584" />
+    <state width="1010" height="307" key="GridCell.Tab.0.bottom" timestamp="1605560676736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1604191954469" />
+    <state width="1010" height="307" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605557115072" />
+    <state width="1010" height="307" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.864@0.0.1536.824" timestamp="1605560676736" />
+    <state width="1010" height="307" key="GridCell.Tab.0.center" timestamp="1605560676736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1604191954469" />
+    <state width="1010" height="307" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605557115072" />
+    <state width="1010" height="307" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.864@0.0.1536.824" timestamp="1605560676736" />
+    <state width="1010" height="307" key="GridCell.Tab.0.left" timestamp="1605560676736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1604191954469" />
+    <state width="1010" height="307" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605557115072" />
+    <state width="1010" height="307" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.864@0.0.1536.824" timestamp="1605560676736" />
+    <state width="1010" height="307" key="GridCell.Tab.0.right" timestamp="1605560676736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1604191954469" />
+    <state width="1010" height="307" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605557115072" />
+    <state width="1010" height="307" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.864@0.0.1536.824" timestamp="1605560676736" />
+    <state width="1481" height="245" key="GridCell.Tab.1.bottom" timestamp="1604429973267">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1604191954470" />
+    <state width="1481" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604429973267" />
+    <state width="1481" height="245" key="GridCell.Tab.1.center" timestamp="1604429973266">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1604191954469" />
+    <state width="1481" height="245" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604429973266" />
+    <state width="1481" height="245" key="GridCell.Tab.1.left" timestamp="1604429973266">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1604191954469" />
+    <state width="1481" height="245" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604429973266" />
+    <state width="1481" height="245" key="GridCell.Tab.1.right" timestamp="1604429973266">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1604191954469" />
+    <state width="1481" height="245" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604429973266" />
+    <state width="273" height="594" key="HiddenNamespacesPopup" timestamp="1605471530634">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state width="273" height="594" key="HiddenNamespacesPopup/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605471530634" />
+    <state x="-1342" y="334" key="NewPhpFileDialog" timestamp="1605485029838">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1342" y="319" key="NewPhpFileDialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1603674163525" />
+    <state x="-1342" y="334" key="NewPhpFileDialog/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605485029838" />
+    <state x="-1635" y="0" key="SettingsEditor" timestamp="1605485465134">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1635" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1604248751799" />
+    <state x="-1635" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605485465134" />
+    <state x="-1276" y="269" width="577" height="438" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1605469632365">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1276" y="269" width="577" height="438" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605469632365" />
+    <state x="-1307" y="278" width="396" height="311" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1605471592981">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1307" y="278" width="396" height="311" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605471592981" />
+    <state x="-1414" y="195" width="523" height="469" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1605469624029">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1414" y="195" width="523" height="469" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1605469624029" />
+    <state x="-1920" y="0" width="718" height="864" key="find.popup" timestamp="1604876286848">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1920" y="0" width="718" height="864" key="find.popup/0.0.1536.824/-1920.0.1536.864@-1920.0.1536.864" timestamp="1604876286848" />
+  </component>
+</project>
